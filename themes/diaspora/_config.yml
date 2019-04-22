@@ -12,8 +12,8 @@ autoplay: false
 
 # 默认音乐
 mp3: 
-  - https://pan.animekid.cn/d/46a55eb299b64adca9e4/files/?p=/5146554.mp3
-  - https://pan.animekid.cn/d/46a55eb299b64adca9e4/files/?p=/1736486.mp3
+  - https://pan.animekid.cn/f/8892a4af1e4a4e00b849/?dl=1
+  - https://pan.animekid.cn/f/eb1309a52ed94cb58f8a/?dl=1
 
 # 首页封面图, 为空时取文章的cover作为封面
 welcome_cover: # /img/welcome-cover.jpg
