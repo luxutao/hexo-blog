@@ -1,6 +1,6 @@
 ---
 title:      "android studio 开启AVD提示无法分配内存"
-cover:      "https://image.animekid.cn/images/2019/02/02/1d68f6473df3021187a57f102d403093.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/1d68f6473df3021187a57f102d403093.md.png"
 date:       "2019-02-25 10:02:07"
 tags:
     - 开发工具

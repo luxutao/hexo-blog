@@ -1,6 +1,6 @@
 ---
 title:      "禁用Linux Desktop下的设备"
-cover:      "https://image.animekid.cn/images/2019/02/02/59e86d5378ae0bda208a95bb1c477783.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/59e86d5378ae0bda208a95bb1c477783.md.png"
 date:       "2019-02-01 14:14:37"
 tags:
     - Linux Desktop

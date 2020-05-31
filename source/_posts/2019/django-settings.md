@@ -1,6 +1,6 @@
 ---
 title:      "更改Django的settings.py"
-cover:      "https://image.animekid.cn/images/2019/02/02/69b3691a0f31338cbac6aa7a0e88feea.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/69b3691a0f31338cbac6aa7a0e88feea.md.png"
 date:       "2019-02-01 14:13:13"
 tags:
     - Python

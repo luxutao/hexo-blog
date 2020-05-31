@@ -1,6 +1,6 @@
 ---
 title:      "SQLAlchemy的模糊查询及and/or查询"
-cover:      "https://image.animekid.cn/images/2019/02/02/a68070659ce0d9f5355bc2c3daf4e62c.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/a68070659ce0d9f5355bc2c3daf4e62c.md.png"
 date:       "2019-03-26 16:57:43"
 tags:
     - Python

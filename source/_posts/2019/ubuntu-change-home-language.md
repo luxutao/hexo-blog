@@ -1,6 +1,6 @@
 ---
 title:      "更改Linux Desktop家目录下目录名称显示语言"
-cover:      "https://image.animekid.cn/images/2019/02/02/6b70607b07a91303e85c6fef933ab1d7.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/6b70607b07a91303e85c6fef933ab1d7.md.png"
 date:       "2019-02-01 14:14:37"
 tags:
     - Linux Desktop

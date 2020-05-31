@@ -1,6 +1,6 @@
 ---
 title:      "virtualbox安装centos鼠标无法显示"
-cover:      "https://image.animekid.cn/images/2019/02/02/fc022ae64f50772268b106d9e67797a7.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/fc022ae64f50772268b106d9e67797a7.md.png"
 date:       "2019-05-28 13:03:28"
 tags:
     - VirtualBox

@@ -1,6 +1,6 @@
 ---
 title:      "Android Studio 运行AVD提示应用程序无法安装"
-cover:      "https://image.animekid.cn/images/2019/02/02/53133e4d895d22dd8ae164b8cb68ff9a.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/53133e4d895d22dd8ae164b8cb68ff9a.md.png"
 date:       "2019-02-26 11:34:20"
 tags:
     - 开发工具

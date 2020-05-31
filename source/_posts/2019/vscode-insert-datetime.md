@@ -1,6 +1,6 @@
 ---
 title:      "vscode 插入时间"
-cover:      "https://image.animekid.cn/images/2019/02/02/d4f7844b53674b9f9380b3c3a1d3a933.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/d4f7844b53674b9f9380b3c3a1d3a933.md.png"
 date:       "2019-02-01 14:14:37"
 tags:       
     - 开发工具

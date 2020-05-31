@@ -1,6 +1,6 @@
 ---
 title:      "Mac下打开finder的隐藏目录"
-cover:      "https://image.animekid.cn/images/2019/02/02/3f0c140656a20f12a0bff01aced6972d.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/3f0c140656a20f12a0bff01aced6972d.md.png"
 date:       "2019-02-01 14:14:37"
 tags:
     - Mac
