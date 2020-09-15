@@ -4,6 +4,14 @@ menu:
   Github: https://github.com/luxutao
   Twitter: https://twitter.com/luxutao
 
+# 链接(可选:facebook,twitter,github,wechat,email)
+links:
+    facebook: /
+    twitter: /
+    github: /
+    wechat: /img/logo.png
+    email: mailto:xxxx@gmail.com
+
 # 是否显示目录
 TOC: false
 
@@ -23,6 +31,17 @@ cover: /img/cover.jpg
 
 # 是否关闭默认滚动条
 scrollbar: true
+
+# 本地搜索,请将索引文件放在网站根目录,或修改主题js文件的path值
+local_search:
+    # 是否启用
+    enable: false
+
+# 是否显示 一言(hitokoto)
+hitokoto: true
+
+# 是否使用mathjax
+mathjax: false
 
 # Gitalk 评论插件（https://github.com/gitalk/gitalk）
 gitalk:
