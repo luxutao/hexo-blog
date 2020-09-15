@@ -12,6 +12,17 @@ links:
     wechat: /img/logo.png
     email: mailto:xxxx@gmail.com
 
+# 备案
+beian: 
+    # 是否显示备案信息
+    enable: false
+    # 是否在主页面最底下显示备案信息(虽然丑，但是完全满足规定要求)
+    enableFooter: false
+    # 备案号
+    beianInfo: 冀ICP备xxxxxxx号
+    # 链接地址
+    link: http://www.beian.miit.gov.cn
+
 # 是否显示目录
 TOC: false
 
