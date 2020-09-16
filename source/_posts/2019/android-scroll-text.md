@@ -1,6 +1,6 @@
 ---
 title:      "android 实现顶部的滚动通知"
-cover:      "https://image.123m.me/images/2019/02/02/a8eee80f86560bfbd193a420b0814267.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/a8eee80f86560bfbd193a420b0814267.png"
 date:       "2019-02-28 15:26:44"
 tags:
     - Kotlin

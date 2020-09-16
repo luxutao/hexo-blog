@@ -1,6 +1,6 @@
 ---
 title:      "使用privoxy将socks5代理转换为http"
-cover:      "https://image.123m.me/images/2019/02/02/e32df8547dcb43b5a2df04d05121bc8e.md.jpg"
+cover:      "https://image.123m.me/images/2019/02/02/e32df8547dcb43b5a2df04d05121bc8e.jpg"
 date:       "2019-02-25 09:56:29"
 tags:
     - Linux Desktop

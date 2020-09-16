@@ -1,6 +1,6 @@
 ---
 title:      "mysql查看数据库或者表的大小"
-cover:      "https://image.123m.me/images/2019/02/02/3938bdce3e9d6131b5ef223baf59d98c.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/3938bdce3e9d6131b5ef223baf59d98c.png"
 date:       "2019-03-25 10:52:36"
 tags:
     - MYSQL

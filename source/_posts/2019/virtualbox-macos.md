@@ -1,6 +1,6 @@
 ---
 title:      "virtualbox安装macos"
-cover:      "https://image.123m.me/images/2019/02/02/8c4ecc84c25361cca5b2e12a6ef6d405.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/8c4ecc84c25361cca5b2e12a6ef6d405.png"
 date:       "2019-08-03 13:00:57"
 tags:
     - VirtualBox

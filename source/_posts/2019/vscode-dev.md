@@ -1,6 +1,6 @@
 ---
 title:      "开发vscode插件"
-cover:      "https://image.123m.me/images/2019/02/02/8d39e9ffb596153d4ae879af3e786d69.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/8d39e9ffb596153d4ae879af3e786d69.png"
 date:       "2019-02-21 16:39:51"
 tags:
     - 开发工具

@@ -1,6 +1,6 @@
 ---
 title:      "MySQL使用命令行复制表结构和数据"
-cover:      "https://image.123m.me/images/2019/02/02/ac3e2a92ab5c12aa7f0a241c4ad6c639.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/ac3e2a92ab5c12aa7f0a241c4ad6c639.png"
 date:       "2019-04-09 10:10:54"
 tags:
     - MySQL

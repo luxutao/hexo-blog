@@ -1,6 +1,6 @@
 ---
 title:      "解决Linux mint19.1 无法打开网易云音乐"
-cover:      "https://image.123m.me/images/2019/02/02/8edee17ea3ee666709cbeebb9267c4ab.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/8edee17ea3ee666709cbeebb9267c4ab.png"
 date:       "2019-02-01 14:14:37"
 tags:       
     - Linux Desktop

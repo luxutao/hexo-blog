@@ -1,6 +1,6 @@
 ---
 title:      "VsCode中设置golang的自动补全功能"
-cover:      "https://image.123m.me/images/2019/02/02/73474c12d8b341d76b9efee6fc2af1dd.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/73474c12d8b341d76b9efee6fc2af1dd.png"
 date:       "2020-09-15 15:42:03"
 tags:
     - vscode

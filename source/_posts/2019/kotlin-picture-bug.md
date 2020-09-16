@@ -1,6 +1,6 @@
 ---
 title:      "kotlin 调用相册不选择图片直接返回则崩溃的bug"
-cover:      "https://image.123m.me/images/2019/02/02/4cf359e3ba8d11608a07a05f8855d2af.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/4cf359e3ba8d11608a07a05f8855d2af.png"
 date:       "2019-02-26 12:01:13"
 tags:
     - Kotlin

@@ -1,6 +1,6 @@
 ---
 title:      "Juniper防火墙设置地址映射"
-cover:      "https://image.123m.me/images/2019/02/02/38b3e9c0ea581028e1d5cce8bd1ed3fe.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/38b3e9c0ea581028e1d5cce8bd1ed3fe.png"
 date:       "2019-02-01 14:14:33"
 tags:
     - 网络

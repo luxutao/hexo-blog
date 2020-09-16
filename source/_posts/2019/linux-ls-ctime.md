@@ -1,6 +1,6 @@
 ---
 title:      "更改ls命令查看的显示时间格式"
-cover:      "https://image.123m.me/images/2019/02/02/73474c12d8b341d76b9efee6fc2af1dd.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/73474c12d8b341d76b9efee6fc2af1dd.png"
 date:       "2019-03-08 10:46:39"
 tags:
     - Linux

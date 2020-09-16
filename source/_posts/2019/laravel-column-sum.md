@@ -1,6 +1,6 @@
 ---
 title:      "Laravel ORM各个字段进行相加的和计算"
-cover:      "https://image.123m.me/images/2019/02/02/f64024eddcc0eed3e86bf528fa3c3502.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/f64024eddcc0eed3e86bf528fa3c3502.png"
 date:       "2019-04-09 10:04:25"
 tags:
     - PHP

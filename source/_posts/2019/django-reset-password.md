@@ -1,6 +1,6 @@
 ---
 title:      "Django重置admin管理密码"
-cover:      "https://image.123m.me/images/2019/02/02/5896e6a5f36cab8353103355c88fdcf9.md.jpg"
+cover:      "https://image.123m.me/images/2019/02/02/5896e6a5f36cab8353103355c88fdcf9.jpg"
 date:       "2019-02-21 16:28:19"
 tags:
     - Python

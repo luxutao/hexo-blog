@@ -1,6 +1,6 @@
 ---
 title:      "让Ubuntu打开就是命令行界面"
-cover:      "https://image.123m.me/images/2019/02/02/9dbee32ce1d723d0a7a4120e31480b48.md.jpg"
+cover:      "https://image.123m.me/images/2019/02/02/9dbee32ce1d723d0a7a4120e31480b48.jpg"
 date:       "2019-02-01 14:14:37"
 tags:
     - Linux Desktop

@@ -1,6 +1,6 @@
 ---
 title:      "docker、firewalld、iptables之间的关系"
-cover:      "https://image.123m.me/images/2019/02/02/b3d839d6236b55cd884d72717830ef6e.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/b3d839d6236b55cd884d72717830ef6e.png"
 date:       "2019-04-26 15:18:18"
 tags:
     - Linux

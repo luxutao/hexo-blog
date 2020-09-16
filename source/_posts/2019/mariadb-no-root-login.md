@@ -1,6 +1,6 @@
 ---
 title:      "解决Mariadb安装之后无法root登录"
-cover:      "https://image.123m.me/images/2019/02/02/b5e68c2b7be749982056f67ab91afbb0.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/b5e68c2b7be749982056f67ab91afbb0.png"
 date:       "2019-05-10 15:17:16"
 tags:
     - Mysql

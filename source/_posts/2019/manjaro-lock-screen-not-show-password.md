@@ -1,6 +1,6 @@
 ---
 title:      "manjaro锁屏不显示输入密码框"
-cover:      "https://image.123m.me/images/2019/02/02/88a818b3bc54bcfe7a2947da66fe0fa0.md.jpg"
+cover:      "https://image.123m.me/images/2019/02/02/88a818b3bc54bcfe7a2947da66fe0fa0.jpg"
 date:       "2019-11-21 09:26:44"
 tags:
     - Linux

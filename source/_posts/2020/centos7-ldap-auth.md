@@ -1,6 +1,6 @@
 ---
 title:      "centos7使用LDAP验证配置"
-cover:      "https://image.123m.me/images/2019/02/02/09ce41aa7282eb1fa51b548ab191c7c2.md.png"
+cover:      "https://image.123m.me/images/2019/02/02/09ce41aa7282eb1fa51b548ab191c7c2.png"
 date:       "2020-09-09 13:51:16"
 tags:
     - Centos
