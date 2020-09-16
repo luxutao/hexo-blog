@@ -1,14 +1,14 @@
 # 头部菜单，title: link
 menu:
-  About: /about
-  Github: https://github.com/luxutao
-  Twitter: https://twitter.com/luxutao
+  标签: /tags
+  归档: /archives
+  关于: /about
 
 # 链接(可选:facebook,twitter,github,wechat,email)
 links:
     facebook: /
     twitter: /
-    github: /
+    github: https://github.com/luxutao
     wechat: /img/logo.png
     email: mailto:xxxx@gmail.com
 
@@ -46,7 +46,7 @@ scrollbar: true
 # 本地搜索,请将索引文件放在网站根目录,或修改主题js文件的path值
 local_search:
     # 是否启用
-    enable: false
+    enable: true
 
 # 是否显示 一言(hitokoto)
 hitokoto: true
